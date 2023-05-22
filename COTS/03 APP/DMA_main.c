@@ -1,14 +1,20 @@
-//#include "Bit_Math.h"
-//#include "RCC_interface.h"
-//#include "DIO_interface.h"
-//#include "LCD.h"
-//#include "KeyPad.h"
-//#include "EXTI_interface.h"
-//#include "DIO_private.h"
-//#include "NVIC_interface.h"
-//#include "EXTI_interface.h"
-//#include "STK_interface.h"
-//#include "DMA_interface.h"
+#include "../00 LIB/Bit_Math.h"
+#include "../01 MCAL/00 RCC/RCC_interface.h"
+#include "../01 MCAL/01 GPIO/DIO_interface.h"
+#include "../02 ECU/LCD/LCD.h"
+#include "../01 MCAL/01 GPIO/DIO_private.h"
+#include "../01 MCAL/02 NVIC/NVIC_interface.h"
+#include "../01 MCAL/03 SYSTICK/STK_interface.h"
+#include "../01 MCAL/05 DMA/DMA_interface.h"
+
+
+
+
+
+
+
+
+
 //
 //
 //
